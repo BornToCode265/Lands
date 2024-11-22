@@ -15,7 +15,7 @@ then
  input 
  localhost:3000
 
- User Details
+ User Details 
  
     1    "full_name": "Min Of Lands",
         "phone_number": "+265123456789",
@@ -31,7 +31,7 @@ then
         "email": "josephhy564@gmail.com",
         "role": User
   
-   3     "full_name": "Jacob Moses",
+    3     "full_name": "Jacob Moses",
         "phone_number": "+265999005432",
         "password": "13457",
         "address": "P.O.Box 234 Mzuzu 3",
